@@ -1,0 +1,9 @@
+requests
+flask
+beautifulsoup4
+colorama
+scapy
+python-nmap
+qrcode
+Pillow
+stegano
