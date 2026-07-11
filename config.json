@@ -1,0 +1,10 @@
+## 3. config.json
+```json
+{
+  "theme": "red",
+  "default_interface": "wlan0",
+  "gateway": "192.168.1.1",
+  "deauther_url": "http://192.168.4.1",
+  "twilio_sid": "",
+  "twilio_token": ""
+}
